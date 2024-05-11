@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.todos-bg-container {
+    background-color: #f9fbfe;
+    height: 120vh;
+}
+
+.image {
+    width: 80vw;
+}
+
+.bg-container {
+    background-image: url('https://imageproxy.wolt.com/venue/62b05600e857b97d028296da/26ef75f2-f093-11ec-a2e6-86c180c8127f_list3.jpg');
+    height: 35vh;
+    width: 90vw;
+    background-size: cover;
+}
+
+.todos-heading {
+    text-align: center;
+    font-family: "Roboto";
+    color: white;
+    font-size: 46px;
+    font-weight: 900;
+    padding-top: 100px;
+    margin-bottom: 20px;
+}
+
+.name-heading {
+    text-align: right;
+    font-family: "Roboto";
+    color: #390601;
+    font-size: 28px;
+    font-weight: 600;
+    padding-top: 40px;
+
+}
+
+.create-task-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.create-task-heading-subpart {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.todo-items-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.todo-items-heading-subpart {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.todo-items-container {
+    margin: 0;
+    padding: 0;
+}
+
+.todo-item-container {
+    margin-top: 15px;
+}
+
+.todo-user-input {
+    background-color: white;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e4e7eb;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.button {
+    color: white;
+    background-color: brown;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-width: 0;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.label-container {
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+}
+
+.heading2 {
+    color: #170055;
+}
+
+.buttonplus {
+    background-color: #e6f6ff;
+}
+
+.weightparaa {
+    text-align: center;
+    color: black;
+    margin-right: 25px;
+    margin-top: 10px;
+    font-weight: 800;
+}
+
+.weightpara {
+    text-align: center;
+    color: black;
+    margin: 3px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+.checkbox-input {
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
+
+.bg-2 {
+    background-color: #1f2933;
+    color: white;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.checkbox-label {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    width: 82%;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+
+.delete-icon-container {
+    text-align: right;
+    width: 18%;
+}
+
+.delete-icon {
+    padding: 15px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
